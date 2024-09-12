@@ -1,0 +1,113 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(145, 112, 112);
+}
+
+header img:hover {
+    transform: scale(1.05);
+}
+
+main h3 {
+    margin-top: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+
+header h1 {
+    color: rgb(70, 73, 218);
+}
+
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: rgb(70, 73, 218);
+}
+
+.project {
+    display: flex;
+    margin-top: 30px;
+    padding: 20px;
+    
+}
+
+.project h3 {
+    color: rgb(70, 73, 218);
+
+}
+
+.project h3 img {
+    width: 40%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+.project h3 img:hover {
+    transform: scale(1.05);
+}
+
+
+.contact > main h1 {
+    display: flex;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 50%;
+    
+}
+
+.footer-contact a {
+    margin: 20px;
+    text-align: center;
+    margin-top: 15%;
+}
