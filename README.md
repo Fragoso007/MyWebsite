@@ -1,27 +1,27 @@
 # MyWebsite
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Fragoso007/PasswordGenerator/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Fragoso007/MyWebsite/blob/master/LICENSE)
 
 # About the project
 
 
-This app was developed with the idea of ​​showing interaction with the user and providing a very pleasant experience. The app allows the user to generate a password made up of several characters and the number of characters varies according to the user's taste. It also allows the user to simply copy the generated password so that they can use it as they wish.
+MyWebsite, as its name suggests, is a personal site that I created with the purpose of showing some of my projects. It contains images that exemplify the projects contained in it.
 
 ## Layout
-![Mobile 1](https://github.com/Fragoso007/PasswordGenerator/blob/main/Photo.png) 
+![Mobile 1](https://github.com/Fragoso007/MyWebsite/blob/master/Web.jpg) 
 
 
 
 
 
 # Project description
-The project was developed using Html, CSS, JavaScript.
+The project was developed using Html and CSS.
 
 
 
 # Skills and used libraries
 - Html
 - CSS
-- JavaScript
+  
 
 
 ```bash
